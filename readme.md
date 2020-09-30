@@ -1,4 +1,4 @@
-# Hackoberfest 2019
+# Hackoberfest 2020
 A repository by- [seemantaggarwal](https://github.com/seemantaggarwal) for beginners to create their first Pull Request.
 
 ## Steps to contribute.
@@ -8,7 +8,7 @@ A repository by- [seemantaggarwal](https://github.com/seemantaggarwal) for begin
 
 ## Do the following steps back in my repository(only that will trigger a pull request) and not in your forked one
 
-3. Add an algorithms in desired algorithm in specified folder(create new folders as per your requirement).
+3. Add an algorithms in desired algorithm in specified folder(create new folders as per your requirement). Anything goes, from android to ML to anything you like.
 
 4. Add your name and github profile link in contributors.md as follows
 ```markdown
@@ -31,3 +31,6 @@ All of your suggestions are welcome!!
 4. If you want to make a folder please keep the first letter of the folder name capital.
 5. Add your code to the proper folder.
  ### T SHIRTS AND STICKERS ONLY FOR MINIMUM 5 MERGED PULL REQUESTS 
+
+### HACKTOBER FEST SWAG LIST
+https://hacktoberfestswaglist.com/
