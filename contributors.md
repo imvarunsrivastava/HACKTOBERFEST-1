@@ -5,3 +5,4 @@
 5. [Shivam Rastogi](https://github.com/hogmogmogi)
 6. [Jeevika Wadhwa](https://github.com/MeeeCoder)
 7. [Deep Vora](https://github.com/rockingdeep)
+8. [Vijay Jangra](https://github.com/vijay5158)
