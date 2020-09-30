@@ -4,7 +4,7 @@ A repository by- [seemantaggarwal](https://github.com/seemantaggarwal) for begin
 ## Steps to contribute.
 1. Register your GitHub ID on hackoberfest website. ( https://hacktoberfest.digitalocean.com/ )
 
-  2.Fork this repository.
+2.Fork this repository.
 
 ## Do the following steps back in my repository(only that will trigger a pull request) and not in your forked one
 
