@@ -3,4 +3,5 @@
 3. [kritika kanojia](https://github.com/kritikakanojia1526)
 4. [Shivam Sharma](https://github.com/shiv21081999)
 5. [Shivam Rastogi](https://github.com/hogmogmogi)
-6. [Deep Vora](https://github.com/rockingdeep)
+6. [Jeevika Wadhwa](https://github.com/MeeeCoder)
+7. [Deep Vora](https://github.com/rockingdeep)
