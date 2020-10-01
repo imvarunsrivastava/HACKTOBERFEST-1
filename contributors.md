@@ -5,4 +5,5 @@
 5. [Shivam Rastogi](https://github.com/hogmogmogi)
 6. [Jeevika Wadhwa](https://github.com/MeeeCoder)
 7. [Deep Vora](https://github.com/rockingdeep)
-8. [Rishika Agarwal](https://github.com/Rishika30)
+8. [Rajat](https://github.com/Rajat947)
+9. [Rishika Agarwal](https://github.com/Rishika30)
