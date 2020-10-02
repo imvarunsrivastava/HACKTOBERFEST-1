@@ -1,27 +1,20 @@
-# Python Program to explain math.prod() method 
-
-# Importing math module 
+#Python Program to explain math.prod() method 
+#Importing math module and other module
 import math 
-
-# list 
+#list 
 arr = [1, 2, 3, 4, 5] 
-
-# Calculate the product of 
-# of all elements present 
-# in the given list 
+#Calculate the product of of all elements present in the given list 
 product = math.prod(arr) 
 print(product) 
 
-
-# tuple 
+#tuple 
 tup = (0.5, 0.6, 0.7) 
 
-# Calculate the product 
-# of all elements present 
-# in the given tuple 
+#Calculate the product 
+#of all elements present 
+#in the given tuple 
 product = math.prod(tup) 
 print(product) 
-
 
 # range 
 seq = range(1, 11) 
